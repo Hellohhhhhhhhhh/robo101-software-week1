@@ -84,20 +84,7 @@ Wheel Slip Detected
 
 🛠️ Installation & Compilation
 
-Ensure your development environment is running Ubuntu 22.04 LTS and ROS 2 Humble.
-
-1. Workspace Configuration
-
-Clone this repository directly into your ROS 2 workspace source directory:
-
-# Navigate to your workspace source path
-cd ~/intensive_ws/src
-
-# Clone this repository
-git clone [https://github.com/](https://github.com/)<your-username>/robo101-software-week1.git core_monitors
-
-
-2. Compile and Source
+Compile and Source
 
 Return to the workspace root, clear any legacy packages, and build the binaries:
 
